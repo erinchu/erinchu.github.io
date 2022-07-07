@@ -1,2 +1,2 @@
 # erinchu.github.io
-Erin website
+Erin's personal website
